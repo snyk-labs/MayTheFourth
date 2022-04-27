@@ -4,6 +4,8 @@
 
 ![Snyk Ship demo](https://github.com/developersteve/MayTheFourth/blob/main/img/demo.gif?raw=true)
 
+### Assets
+
 - [background.mp4](Snyk%20Ship/background.mp4)
 - [ship_interior.mp4](Snyk%20Ship/ship_interior.mp4)
 - [ship_green.png](Snyk%20Ship/ship_green.png)
