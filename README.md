@@ -13,7 +13,7 @@ To celebrate MayTheFourth day we decided to release some special Snyk virtual ba
 - [ship_green.png](Snyk%20Ship/ship_green.png)
 - [ship_window.png](Snyk%20Ship/ship_window.png)
 
-
+&nbsp;
 
 ## SCA Scout
 
