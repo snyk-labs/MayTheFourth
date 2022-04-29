@@ -1,6 +1,6 @@
 # MayTheFourth 2022
 
-For use with setting up [OBS](https://obsproject.com/) and video scenes 
+To celebrate MayTheFourth day we decided to release some special Snyk virtual backgrounds, to get started check out our #maythefourth blog post [MayTheFourth be with your video](https://linkinhere.com)
 
 ## Snyk Spaceship
 
