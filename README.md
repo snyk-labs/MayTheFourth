@@ -23,4 +23,4 @@ To celebrate MayTheFourth day we decided to release some special Snyk virtual ba
 
 - [ship_interior.mp4](Snyk%20Ship/ship_interior.mp4) (note: ive added a OBS color change filter in the above clip) 
 - [SCA_Scout.mp4](SCA%20Scout/SCA_Scout.mp4)
-- [SCA_Window.png](Snyk%20Ship/SCA_Window.png)
+- [SCA_Window.png](SCA%20Scout/SCA_Window.png)
