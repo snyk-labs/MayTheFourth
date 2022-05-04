@@ -1,6 +1,6 @@
 # MayTheFourth 2022
 
-To celebrate MayTheFourth day we decided to release some special Snyk virtual backgrounds, to get started check out our #maythefourth blog post [MayTheFourth be with your video](https://linkinhere.com)
+To celebrate MayTheFourth day we decided to release some special Snyk virtual backgrounds, to get started check out our #maythefourth blog post [MayTheFourth be with your video](https://snyk.io/blog/may-the-fourth-be-with-your-video/)
 
 ## Snyk Spaceship
 
